@@ -1,0 +1,28 @@
+# Segurança (NUNCA SUBIR)
+.env
+
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Dados (Kaggle)
+data/
+*.csv
+*.tsv
+*.parquet
+
+# Logs e Saídas de Execução
+output/
+__pycache__/
+*.pyc
+
+# Pacotes Compilados e Submissões
+wheels/
+*.whl
+*.zip
+*.tar.gz
+
+# Arquivos de sistema do Windows
+.DS_Store
+Thumbs.db
